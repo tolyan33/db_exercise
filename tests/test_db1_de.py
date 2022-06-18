@@ -35,7 +35,3 @@ class TestDB1OpenPrice(WebDriverSetup):
 
 if __name__ == '__main__':
     unittest.main()
-
-# install dependencies
-# readme
-# investigate inheritance of general class
